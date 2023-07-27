@@ -1,0 +1,18 @@
+/* .App {
+  text-align: center;
+} */
+
+.itemline{
+  border-bottom: 1px solid #bbb;
+}
+
+.dateline{
+  border-top: 3px solid #727272;
+}
+
+.add{
+  height:auto;
+  width: auto;
+  background-color: transparent;
+  border-color: transparent;
+}
